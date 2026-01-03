@@ -349,10 +349,6 @@ copies of the Software...
 - [Material Design](https://material.io/) - Design guidelines
 - [Kotlin](https://kotlinlang.org/) - Programming language
 
-## 📞 Contact
-
-- **GitHub**: [@gechdr](https://github.com/gechdr)
-
 ---
 
 <div align="center">
